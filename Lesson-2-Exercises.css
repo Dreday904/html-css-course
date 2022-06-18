@@ -1,0 +1,60 @@
+<!--Recreating social Media buttons using css-->
+
+<!--2a. UBER-->
+
+  <button class="uber-button">Request now</button>
+
+  <style>
+
+  .uber-button{
+    background-color: black;
+    color: white;
+    height: 42px;
+    width: 126px;
+    font-size: 13px;
+    font-weight: bold;
+  }
+
+  </style>
+
+  <!--2b. Amazon-->
+
+  <button class="Cart-button">Add to Cart</button>
+
+    <style>
+      .Cart-button{
+        background-color: rgb(255, 216, 20);
+        border: none;
+        color: black;
+        height: 32px;
+        width: 142px;
+        border-radius: 62px;
+        font-weight: bold;
+
+      }
+
+    </style>
+
+    <!--2c. GitHub-->
+
+    <button class="Git-button">Sign up</button>
+
+    <style>
+      .Git-button{
+        background-color: rgb(60, 170, 91);
+        color: white;
+        font-weight: bold;
+        height: 42px;
+        width: 126px;
+        border: none;
+        border-radius: 8px;
+        font-size: 15px;
+
+
+      }
+
+    </style>
+
+
+
+
