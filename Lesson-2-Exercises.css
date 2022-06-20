@@ -5,7 +5,6 @@
   <button class="uber-button">Request now</button>
 
   <style>
-
   .uber-button{
     background-color: black;
     color: white;
@@ -13,11 +12,13 @@
     width: 126px;
     font-size: 13px;
     font-weight: bold;
+    cursor: pointer;
   }
-
   </style>
 
+
   <!--2b. Amazon-->
+
 
   <button class="Cart-button">Add to Cart</button>
 
@@ -30,12 +31,13 @@
         width: 142px;
         border-radius: 62px;
         font-weight: bold;
-
+        cursor: pointer;
       }
-
     </style>
 
+
     <!--2c. GitHub-->
+
 
     <button class="Git-button">Sign up</button>
 
@@ -49,12 +51,148 @@
         border: none;
         border-radius: 8px;
         font-size: 15px;
-
-
+        cursor: pointer;
       }
-
     </style>
 
 
+    <!--2d. Bootstrap-->
+    
+    <button class="Boot-button">Get started</button>
+    <button class="Down-button">Download</button>
+
+    <style>
+      .Boot-button{
+        background-color: rgb(121, 82, 179);
+        color: white;
+        font-weight: bold;
+        height: 42px;
+        width: 126px;
+        border: none;
+        border-radius:7px;
+        font-size: 14px;
+        margin-right: 6px;
+        cursor: pointer;
+      }
+
+      .Down-button{
+        background-color: white;
+        color: rgb(108, 117, 125);
+        border: solid;
+        border-radius: 7px;
+        height: 42px;
+        width: 126px;
+        font-weight: bold;
+        font-size: 14px;
+        border-width: 1px;
+        cursor: pointer;
+      }
+    </style>
+
+    <!--LinkedIn-->
+    
+    <button class="Apply-button">Apply on company website</button>
+    <button class="Save-button">Save</button>
+
+    <style>
+      .Apply-button{
+        background-color: rgb(10, 102, 194);
+        color: white;
+        border: none;
+        border-radius: 30px;
+        height: 42px;
+        width: 186px;
+        font-weight: bold;
+        font-size: 12px;
+        margin-right: 8px;
+        cursor: pointer;
+      }
+
+      .Save-button{
+        background-color: white;
+        color: rgb(10, 102, 194);
+        border-width: 1px;
+        border-color: rgb(10, 102, 194);
+        border-radius: 24px;
+        height: 42px;
+        width: 72px;
+        font-size: 14px;
+        font-weight: bold;
+        cursor: pointer;
+      }
+    </style>
+
+    <!--2f-->
+
+    <a class="back-color" href="https://www.amazon.com/" target="_blank">
+      Back to Amazon</a>
+
+      <style>
+        .back-color{
+          color: rgb(0, 113, 133);
+        }
+      </style>
+
+    <p class="nike-words">Nike Black Running Shoes</p>
+
+      <style>
+        .nike-words{
+          font-weight: bold;
+          font-size: 24px;
+        }
+      </style>
+
+    <p class="in-stock">$39 - in stock.</p>
+
+    <style>
+      .in-stock{
+        color: rgb(0, 118, 0);
+        font-size: 20px;
+        font-weight: bold;
+      }
+    </style>
+
+    <p class="free">Free delivery tommorow.</p>
+    <style>
+      .free{
+        font-size: 18px;
+        font-weight: bold;
+      }
+    </style>
+
+    <button class="Add-button">Add to Cart</button> 
+    
+    <button class="Buy-button">Buy Now</button>
 
 
+    <style>
+      .Add-button{
+        background-color: rgb(255, 216, 20);
+        border: none;
+        color: black;
+        border-radius: 24px;
+        height: 32px;
+        width: 144px;
+        font-size: 14px;
+        font-weight: 600;
+        cursor: pointer;
+      }
+    </style>
+
+<style>
+  .buy-button{
+    background-color: rgb(255, 164, 28);
+    border: none;
+    color: black;
+    border-radius: 24px;
+    height: 32px;
+    width: 144px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+</style>
+
+
+
+   
